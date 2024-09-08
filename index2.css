@@ -1,0 +1,32 @@
+#logo{background-color: rgba(58,11,99,1);
+height: 71.844;}
+#jj{height: 71.84;}
+td{width: 25%;}
+table{width: 100%;padding: 0%;margin: 0%;
+    background-size: 100%;
+    background-image: url("https://lh3.googleusercontent.com/drive-storage/AJQWtBNY8Jkb8vqvyaIOxRgbGd4TdCZrNhFTK6_AIMLD1FcaicrOlLbzf6ZaEm2i6xSlDlQiR7hFhgeK7kgOZbvz83B-X5o_ouAq1Y2CUJp1rA=w1304-h665");}
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.centro{
+        text-align: center;
+}
+.tabelarosa{background-color: rgba(251,69,199,1);
+font-family: Raleway, sans-serif;
+color: white;}
+.coluna{column-count: 3;}
+.tabelaverde{background-color:  #89f668;
+    font-family: Raleway, sans-serif;
+    color: rgb(102, 16, 131);}
+.rxesc{background-color: #5b1078;
+    text-align: center;
+    color: rgb(137, 246, 104);
+        font-family: Raleway, sans-serif;}
+.rx{background-color: rgba(67,11,110,1);
+text-align: center;
+color: rgb(137, 246, 104);
+    font-family: Raleway, sans-serif;}
+.acerto{width: 30%;}
+#susu{color: white;}
